@@ -1,0 +1,52 @@
+# 1. Project Title
+
+**Student Course Enrollment System using Core Logic and Data Structures**
+
+# 2. Problem Statement
+
+To design and implement a system that manages student course enrollments using core programming logic and data structures. The system should allow adding students, enrolling them in courses, displaying records, and managing data efficiently without using a graphical user interface.
+
+# 3. Objective
+
+* To implement core logic for a course enrollment system.
+* To use data structures for efficient data storage.
+* To perform operations such as add, search, and display.
+* To improve logical thinking and problem-solving skills.
+* To understand real-world data handling techniques.
+
+# 4. Tools Used
+
+* Java (JDK)
+* VS Code / Eclipse / IntelliJ IDEA
+
+# 5. Description
+
+This project implements a Student Course Enrollment System using Java core programming concepts. The system uses the ArrayList data structure to store student records dynamically. Each student record contains a student's name and enrolled course. The system provides functionalities to add new students, display all enrolled students, and search for a specific student. The application runs in a console-based environment and demonstrates efficient data handling using collections.
+
+# 6. Algorithm
+
+1. Start the program.
+2. Create an empty ArrayList to store student records.
+3. Display the menu options.
+4. Read the user's choice.
+5. If the choice is Add, input student details and store them in the ArrayList.
+6. If the choice is Display, show all enrolled students.
+7. If the choice is Search, search for a student by name and display the result.
+8. Repeat the process until the user chooses Exit.
+9. Stop the program.
+
+# 7. Program
+
+Java program to manage student course enrollment using ArrayList and core programming logic.
+
+# 8. Output
+
+The program displays the menu options and allows the user to add, display, and search student enrollment records. The results are shown in a clear and organized format.
+
+# 9. Result
+
+The Student Course Enrollment System was successfully implemented using core Java logic and data structures. The system efficiently stores, retrieves, and manages student enrollment data using ArrayList.
+
+# 10. Conclusion
+
+This project demonstrates a simple Student Course Enrollment System using Java. It helps in understanding important programming concepts such as classes, objects, ArrayList, loops, conditional statements, searching techniques, and user input handling. The system provides an efficient way to manage student enrollment records in a console-based environment.
